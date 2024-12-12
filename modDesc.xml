@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+    <author>ChrisLeinbach</author>
+    <version>1.0.0.0</version>
+    <iconFilename>icon_farma_bulk_pack.dds</iconFilename>
+
+    <title>
+        <en>Unia Farma Silo Bulk Pack</en>
+    </title>
+	<description>
+		<en><![CDATA[Unia Farma Silo Bulk Pack
+Adds variants of the Unia Farma silo's that support bulk products. This greatly expands what can be stored in them. The silo's are otherwise unmodified from the base game.
+
+This allows things like silage, lime, and hay to be stored in these silos.
+
+Farma 100 Bulk
+- Category: Placeables - Buildings - Silo Extensions
+- Price: $52,000
+- Daily Upkeep: $20
+- Capacity: 100,000 L
+
+Farma 150 Bulk
+- Category: Placeables - Buildings - Silo Extensions
+- Price: $56,000
+- Daily Upkeep: $25
+- Capacity: 150,000 L
+
+Farma 200 Bulk
+- Category: Placeables - Buildings - Silo Extensions
+- Price: $60,000
+- Daily Upkeep: $30
+- Capacity: 200,000 L
+
+Farma 250 Bulk
+- Category: Placeables - Buildings - Silo Extensions
+- Price: $64,000
+- Daily Upkeep: $35
+- Capacity: 250,000 L
+
+Farma 400 + Obi 1000 Bulk
+- Category: Placeables - Buildings - Silos
+- Price: $117,000
+- Daily Upkeep: $120
+- Capacity: 400,000 L
+
+Farma 500 + Obi 1000 Bulk
+- Category: Placeables - Buildings - Silos
+- Price: $125,000
+- Daily Upkeep: $140
+- Capacity: 500,000 L
+
+Farma 800 + Obi 1000 Bulk
+- Category: Placeables - Buildings - Silos
+- Price: $147,000
+- Daily Upkeep: $150
+- Capacity: 800,000 L
+
+Github Link: https://github.com/ChrisLeinbach/FS25-Unia-Farma-Bulk-Pack-Mod
+]]></en>
+   <de><![CDATA[Unia Farma Silo Großpackung
+Fügt Varianten der Unia Farma-Silos hinzu, die Schüttgüter unterstützen. Dies erweitert die Lagermöglichkeiten in ihnen erheblich. Die Silos sind ansonsten unverändert gegenüber dem Basisspiel.
+
+Dadurch können Dinge wie Silage, Kalk und Heu in diesen Silos gelagert werden.
+
+Farma 100 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silo-Erweiterungen
+- Preis: 52.000 $
+- Tägliche Instandhaltung: 20 $
+- Kapazität: 100.000 l
+
+Farma 150 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silo-Erweiterungen
+- Preis: 56.000 $
+- Tägliche Instandhaltung: 25 $
+- Kapazität: 150.000 l
+
+Farma 200 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silo-Erweiterungen
+- Preis: 60.000 $
+- Tägliche Instandhaltung: 30 $
+- Kapazität: 200.000 l
+
+Farma 250 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silo-Erweiterungen
+- Preis: 64.000 $
+- Tägliche Instandhaltung: 35 $
+- Kapazität: 250.000 l
+
+Farma 400 + Obi 1000 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silos
+- Preis: 117.000 $
+- Tägliche Instandhaltung: 120 $
+- Kapazität: 400.000 l
+
+Farma 500 + Obi 1000 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silos
+- Preis: 125.000 $
+- Tägliche Instandhaltung: 140 $
+- Kapazität: 500.000 l
+
+Farma 800 + Obi 1000 Bulk
+- Kategorie: Platzierbare Objekte – Gebäude – Silos
+- Preis: 147.000 $
+- Tägliche Instandhaltung: 150 $
+- Kapazität: 800.000 l
+
+Github Link: https://github.com/ChrisLeinbach/FS25-Unia-Farma-Bulk-Pack-Mod
+]]></de>
+	</description>
+	<multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="xml/farma100.xml"/>
+        <storeItem xmlFilename="xml/farma150.xml"/>
+        <storeItem xmlFilename="xml/farma200.xml"/>
+        <storeItem xmlFilename="xml/farma250.xml"/>
+        <storeItem xmlFilename="xml/farma400.xml"/>
+        <storeItem xmlFilename="xml/farma500.xml"/>
+        <storeItem xmlFilename="xml/farma800.xml"/>
+    </storeItems>
+
+</modDesc>
